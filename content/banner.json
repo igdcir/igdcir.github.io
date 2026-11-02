@@ -1,19 +1,19 @@
 {
   "enabled": true,
   "autoplay": true,
-  "autoplaySeconds": 2,
+  "autoplaySeconds": 5,
   "items": [
-    {
-      "desktopImage": "/assets/img/Sliders/MHHN-DESK.png",
-      "mobileImage": "/assets/img/Sliders/MHHN-MB.png",
-      "title": "ماهنوز همو نمی‌شناسیم",
-      "url": "https://zaya.io/igdcisf"
-    },
     {
       "desktopImage": "/assets/img/Sliders/Report Data/Report-IGDC-Web.jpg",
       "mobileImage": "/assets/img/Sliders/Report Data/Report-IGDC-Phone.jpg",
       "title": "تصویر آماری جامعه گرافیک اصفهان",
       "url": "https://igdc.ir/report1405/"
+    },
+    {
+      "desktopImage": "/assets/img/Sliders/MHHN-DESK.png",
+      "mobileImage": "/assets/img/Sliders/MHHN-MB.png",
+      "title": "ماهنوز همو نمی‌شناسیم",
+      "url": "https://zaya.io/igdcisf"
     }
   ]
 }
