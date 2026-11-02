@@ -11,6 +11,7 @@
     },
     {
       "desktopImage": "/assets/img/Sliders/Report Data/Report-IGDC-Web.jpg",
+      "mobileImage": "/assets/img/Sliders/Report Data/Report-IGDC-Phone.jpg",
       "title": "تصویر آماری جامعه گرافیک اصفهان",
       "url": "https://igdc.ir/report1405/"
     }
